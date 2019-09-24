@@ -45,7 +45,15 @@
 .change .uldiv{
     display: block;
 }
-
+.change1 .uldiv1 ul{
+    display: block;
+}
+.change2 .uldiv2 ul{
+    display: block;
+}
+.change3 .uldiv3 ul{
+    display: block;
+}
 .loader-frame{
     width: 40pX;
     height: 40PX;
