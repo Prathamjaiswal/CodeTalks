@@ -50,7 +50,7 @@ ul {
     font-size: 2.5vw;
 }
 .endofpage ul li:hover{
-    font-size: 2vw;
+    font-size: 3vw;
 }
 .endofpage ul li:hover ul{
     display: block;
