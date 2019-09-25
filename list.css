@@ -52,9 +52,9 @@ ul {
 .endofpage ul li:hover{
     font-size: 3vw;
 }
-.endofpage ul li:hover ul{
+/*.endofpage ul li:hover ul{
     display: block;
-}
+}*/
 /*END*/
 /*START*/
 ul li.li1{
