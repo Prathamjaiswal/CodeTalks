@@ -70,10 +70,28 @@ a{
     margin-left:20px;
 }
 .nextbutton{
+
     border-radius: 0%;
     background: green;
     border:1px solid rgb(3, 185, 3);
     height:3vw;
     width:6vw;
+    /*margin-left: 87.5%;*/
+}
+.previousbutton{
+    
+    border-radius: 0%;
+    background: green;
+    border:1px solid rgb(3, 185, 3);
+    height:3vw;
+    width:9vw;
+}
+.previousbuttondiv{
+    width:9vw;
+    
+}
+.nextbuttondiv{
+    width:6vw;
+    
     margin-left: 87.5%;
 }
