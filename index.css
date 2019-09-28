@@ -74,8 +74,8 @@ a{
     border-radius: 0%;
     background: green;
     border:1px solid rgb(3, 185, 3);
-    height:4vw;
-    width:6vw;
+    height:40px;
+    width:80px;
     /*margin-left: 87.5%;*/
 }
 .previousbutton{
@@ -83,16 +83,16 @@ a{
     border-radius: 0%;
     background: green;
     border:1px solid rgb(3, 185, 3);
-    height:4vw;
-    width:9vw;
+    height:40px;
+    width:120px;
 }
 .previousbuttondiv{
-    width:9vw;
+    width:90px;
     
 }
 .nextbuttondiv{
-    width:6vw;
-    
+    width:60px;;
+    /*margin-top:20px;*/
     margin-left: 87.5%;
 }
 .contentscenter{
