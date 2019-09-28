@@ -75,7 +75,7 @@ a{
     background: green;
     border:1px solid rgb(3, 185, 3);
     height:40px;
-    width:80px;
+    width:90px;
     /*margin-left: 87.5%;*/
 }
 .previousbutton{
@@ -84,7 +84,7 @@ a{
     background: green;
     border:1px solid rgb(3, 185, 3);
     height:40px;
-    width:120px;
+    width:150px;
 }
 .previousbuttondiv{
     width:90px;
@@ -93,7 +93,7 @@ a{
 .nextbuttondiv{
     width:60px;;
     /*margin-top:20px;*/
-    margin-left: 87.5%;
+    margin-left: 87%;
 }
 .contentscenter{
     margin-left:25%;
