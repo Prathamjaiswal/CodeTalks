@@ -57,6 +57,27 @@ ul {
 }*/
 /*END*/
 /*START*/
+.cmenuul{
+    display:block;
+    color:white;
+    /*margin-left:5px;*/
+    background: rgb(43, 42, 42);
+    font-size: 2.5vw;
+    border: 1px solid rgb(83, 83, 83);
+}
+.cmenuul li ul{
+display: block;
+color:white;
+padding:5px;
+font-size: 2vw;
+cursor: pointer;
+}
+.cmenuul li ul li{
+    border:1px solid rgb(83, 83, 83);
+    
+}
+/*END*/
+/*START*/
 ul li.li1{
     animation-name: list;
     animation-duration: 0.2s;
