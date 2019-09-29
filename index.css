@@ -105,3 +105,8 @@ a{
     height:100%;
     /*border:1px dotted white;*/
 }
+.tabledata tr td{
+    width: 16.25%;
+    padding: 2px;
+    border: 1px dotted white;
+}
