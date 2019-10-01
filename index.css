@@ -115,3 +115,11 @@ a{
     padding: 2px;
     border: 1px dotted white;
 }
+.selection{
+    width:42vw;;
+    height:42vw;
+    border-radius: 10%;
+    border:1px dotted white;
+    background: white;
+    cursor: pointer;
+}
