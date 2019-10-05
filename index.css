@@ -58,19 +58,19 @@ a{
 }
 .sourcecode .include, .comments{
     color: coral;
-    margin-left:20px;
+    /*margin-left:20px;*/
 }
 .sourcecode .keyword{
     color:blue;
-    margin-left:20px;
+/*    margin-left:20px;*/
 }
 .sourcecode .txt{
     color:white;
-    margin-left:20px;
+    /*margin-left:20px;*/
 }
 .sourcecode .argument, .headerfile{
     color:rgb(7, 201, 7);
-    margin-left:20px;
+   /* margin-left:20px;*/
 }
 .nextbutton{
 
